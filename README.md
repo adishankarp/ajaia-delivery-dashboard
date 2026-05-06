@@ -2,6 +2,10 @@
 
 This repository is a **frontend prototype** for internal delivery operations around a hospital AI program titled **Patient Acquisition & Growth Agent**. It surfaces launch readiness at a glance (weighted scoring, checklist posture, blocked dependencies, and risk exposure) alongside operational detail in tables and panels. All content is **static mock data** in TypeScript; there is no server, persistence, or live hospital integration. It is intended for review and discussion—not as production infrastructure.
 
+## Live Demo
+
+https://delivery-dashboard-seven-alpha.vercel.app/
+
 ---
 
 ## Features
